@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Youfei Zhang. I am a data scientist living in NYC 🗽🌇
+My name is Youfei. I am a data scientist living in NYC 🗽🌇
 
 - 💁‍♀️ Currently, Data Scientist at Swiss Re
 - 🎓 MSc in Data Analytics | BA in Economics
