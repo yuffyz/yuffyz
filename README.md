@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=yuffyz)
 
 <!--
-**yuffyz/yuffyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yuffyz/yuffyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Cancel changes
 
 Here are some ideas to get you started:
 
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Youfei Zhang. I am a data scientist living in NYC ☀️🌴
+My name is Youfei Zhang. I am a data scientist living in NYC 🗽🌇
 
 - 💁‍♀️ Currently, Data Scientist at Swiss Re
-- 🎓 MSc in Data Analytics | BAc in Economics
+- 🎓 MSc in Data Analytics | BA in Economics
 - 🌱 I am currently learning languages, communication & pychology 
 
 ### 👩‍💻 Some of the tools I frequently use:
