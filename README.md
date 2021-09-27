@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Youfei. I am a data scientist living in NYC 🗽🌇
+My name is Youfei. I am a data scientist based in PA
 
-- 💁‍♀️ Currently, Data Scientist at Swiss Re
+- 💁‍♀️ Currently, Data Scientist working in insurance industry
 - 🎓 MSc in Data Analytics | BA in Economics
-- 🌱 I am currently learning languages, communication & pychology 
+- 🌱 I am super interested in communication, meditation & psychology 
 
 ### 👩‍💻 Some of the tools I frequently use:
 
